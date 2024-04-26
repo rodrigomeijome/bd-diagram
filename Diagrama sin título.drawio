@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T14:00:07.556Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="BOJBsh-TBKJ5dV37EDVO" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T14:23:22.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="yNUonHvACKuw1Tb9Cz7s" version="24.3.0" type="github">
   <diagram name="Página-1" id="F8jsV4842HRfJ6b3ovkX">
     <mxGraphModel dx="2163" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,19 +53,19 @@
         <mxCell id="ysxkpecqa7wT49GuzcIq-70" value="&lt;b&gt;AREA&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ysxkpecqa7wT49GuzcIq-71" value="&lt;u&gt;nombre_area&lt;/u&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ysxkpecqa7wT49GuzcIq-71" value="&lt;u&gt;Nombre_area&lt;/u&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="250" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ysxkpecqa7wT49GuzcIq-72" value="descripción" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="250" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ysxkpecqa7wT49GuzcIq-74" value="&lt;u&gt;fecha_inicio_monitor&lt;/u&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ysxkpecqa7wT49GuzcIq-74" value="&lt;u&gt;fecha_inicio&lt;/u&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="250" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ysxkpecqa7wT49GuzcIq-75" value="&lt;u&gt;nombre_area&lt;/u&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="250" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ysxkpecqa7wT49GuzcIq-76" value="fecha_fin_monitor" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ysxkpecqa7wT49GuzcIq-76" value="fecha_fin" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="250" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ysxkpecqa7wT49GuzcIq-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="ysxkpecqa7wT49GuzcIq-71">
@@ -335,7 +335,7 @@
         <mxCell id="ysxkpecqa7wT49GuzcIq-173" value="&lt;u&gt;DNI_niño&lt;/u&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="970" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ysxkpecqa7wT49GuzcIq-174" value="&lt;u&gt;ID_Inscripción&lt;/u&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ysxkpecqa7wT49GuzcIq-174" value="&lt;u&gt;ID_inscripción&lt;/u&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="970" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ysxkpecqa7wT49GuzcIq-175" value="fecha_hora" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
